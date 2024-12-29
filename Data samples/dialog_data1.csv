@@ -1,0 +1,371 @@
+image_hash,emotion,dialog
+0,Appreciative (Grateful),home sweet home
+0,Glamorous,in my big house
+0,Appreciative (Grateful),"Its a house, so like it"
+1,Discouraging,How can you get any work done in such a disorganized office?
+2,Empathetic,I hope the person who made this made a lot of money
+3,Erratic,Is the street skewed or am I just kind of drunk?
+3,Boyish,I think you are drunk bro.
+3,Erratic,Is it ok?  Are you mad?
+4,Destructive,This ugly box of a building should be torn down and turned into tombstones.
+5,"Escapist (Dreamer, Seeks Distraction)",Oh to hit the road and just keep walking.
+6,"Whimsical (Playful, Fanciful)",I can't wait to buy these shirts for my mom's birthday!
+6,Dramatic,Your mom will have quite a surprise when she sees the shirts!
+6,"Whimsical (Playful, Fanciful)",she knows my jokster mentality 
+7,Extravagant,These flowers look very expensive.
+7,Fun-loving,Expensive or not they look amazing to make a bouquet out of.
+7,Extravagant,I would love to put some of these in a vase to set on a window sill.
+8,Sentimental,I will miss the band
+8,Observant,"You were in band before, when was that?"
+8,Sentimental,A long time ago in the best years of my life in high school.
+9,Rational,Two good friends.
+10,Tough,he needs to try harder to play that bass
+11,Scornful,These are the most disgusting candies.  If you like them you should be ashamed of yourself.
+12,Considerate,As he accepted his award he thanked everyone close to him. He was so thankful.
+13,Sweet,I love cockpit shots like this.
+14,Earnest (Enthusiastic),Let's join the march!
+15,Calm,This band was good but a little too up-tempo for me.
+15,Opinionated,"The best part about that band is their promotional art, I don't think they sound very good."
+15,Calm,I think everybody enjoyed and were satisfied with the performance
+16,Rustic (Rural),There seems to be a mighty storm comin'!
+17,Absentminded,"Oh no, did I feed my fly traps lately?"
+18,"Neurotic (Manic, Obsessive)",Trying to figure out where this is for my next mission
+19,Artificial,"Bird, fly bird fly."
+20,Warm,A very nice decorated picture.
+20,Obnoxious,Are you sure you like it? I do not think so!
+20,Warm,You will get used to it after the headache goes away.
+21,Romantic,I would love to have dinner as the sun sets with my loved on facing this statue.
+22,Nihilistic,There is no purpose for this.
+22,Paranoid,You are right it could just fall and hurt people.
+22,Nihilistic,"But if those people did get hurt and somehow perish, that means they really had no purpose in life"
+23,Daring,He was contemplating his next move
+23,Melancholic,I hope he isn't thinking about jumping off a bridge.
+23,Daring,I bet he is planning to run away from the woman glaring in his direction.
+24,"Conceited (Arrogant, Egotistical)",What a pathetic little flower.
+25,Destructive,Looking at those windows makes me want to throw rocks at them.
+26,Daring,I bet you could summon all sorts of stuff with that book!
+27,Playful,Now if only a little bird would land on the beam so I can take a pretty picture.
+27,Anxious,"But it might fall, oh my."
+27,Playful,But they can fly! So it will be alright. DoDo.
+28,Erratic,The view always turns me on.
+29,Old-fashioned,"What happened to giving a speech without a big screen thing, can't anyone use their imagination anymore?"
+29,Playful,Maybe there are a lot of visuals to distract from the speaker.
+29,Old-fashioned,That's a lot of mumbo jumbo.
+30,Businesslike,You could build a lucrative resort here.
+31,Sensitive,The history here is so amazing.
+31,Overimaginative,Free Derry - or free dairy - ice cream!!!
+31,Sensitive,Would you like to share my ice cream?
+32,"Vacuous (Empty, Unintelligent)",What happens if you hit the ball?
+33,Wishful,I could easily get up on that and sleep right now! 
+34,Opinionated,I think I'd be a great city worker who cleans floors.
+35,"Vivacious (Lively, Animated)",Oh what a wonderful day to be at the park!
+35,Imaginative,No one showed up
+35,"Vivacious (Lively, Animated)",I'm sure the fun will start any moment!
+36,Impersonal,The girl is not very personal
+37,"Colorful (Full of Life, Interesting)",They are playing soccer and giving directions. 
+38,"Cerebral (Intellectual, Logical)",The calmness of the water indicates a 3 mph headwind 
+38,Logical,"It does indeed, we must prepare the sails and get this ship sailing the right way."
+38,"Cerebral (Intellectual, Logical)",This must be early in the morning due to no waves.
+39,Daring,I would totally do this if someone paid me money.
+39,"Airy (Casual, Not Serious)",Must have been fun
+39,Daring,It just looks dull.
+40,Considerate,Looks like someone worked very hard designing that building
+41,"Vacuous (Empty, Unintelligent)",This kid has clearly never been outside.  He doesn't know what water is. 
+41,Warm,I think he looks like he's exploring and learning.
+41,"Vacuous (Empty, Unintelligent)",He looks like he expects to walk on top of it. Hey Jesus!
+42,Dry,An old and hard to read book.
+43,Sensitive,"What a lovely photograph, these two really care for each other, I'm so pleased."
+44,"Eloquent (Well-spoken, Expressive)",A very telling photo of how two people can be a team.
+45,High-spirited,Look how beautiful and majestic the scenery is! It really is a natural beauty!
+46,Profound,The facade of this building must have taken weeks to finish by hand! Truly a sign of wealths past. 
+47,Quirky,Milk in the making!
+47,Confident,I'm sure that milk will be some of the best around.
+47,Quirky,"Man, I'd love to just spot up right under the cow and squirt that good stuff directly into my mouth, and cut out the middle-man."
+48,Lazy,"Yeah, this kid is laid back, just chillin"""
+48,Businesslike,He will never get a job that way. 
+48,Lazy,"look at that face, he doesn't need one, he can sit around all day"
+49,Fiery,That baby wants something better to eat.
+50,Serious,"It's good the gate is closed, that will help keep people out."
+51,Artful,What a beautiful cultural gathering.
+52,Scholarly,take a trip in the forest. lots and lots of trees
+52,Old-fashioned,"This is peaceful, no machines or technology out here."
+52,Scholarly,"To the contrary, nature is the purest form of technology."
+53,Witty,Bet he regrets that
+53,High-spirited,LOL Yes he does! So funny!
+53,Witty,"He'll mind his p's and q's next time, haha. "
+54,Humble,These are my ordinary bones.
+54,Cheerful,"Awww, it must be Halloween!"
+54,Humble,I should give the bones to someone who could really enjoy them.
+55,Romantic,Honey...I am home!
+55,"Fawning (Flattering, Deferential)",Honey looks gorgeous! I wonder what she is thinking.
+55,Romantic,Probably how that room work look for the two of us.
+56,Appreciative (Grateful),Such a wonderful planet we live on! Its beautiful.
+56,Paranoid,The planet could explode at any minute!  The goverment holds the key to a gate filled with explosives!
+56,Appreciative (Grateful),Thank you for letting me know that info!
+57,Daring,Very daring architecture 
+58,Scholarly,Shortly I will be teaching the Girl Scouts how to knit.
+59,Irrational,I am not sure why he is riding in a grassy field
+60,Scornful,It must be very cold even inside those tents.
+61,Discouraging,These people need to get out of these dumb outfits.
+62,Envious,I would love to just be able to crawl into a small tunnel away from all of my problems
+63,Sentimental,I remember going there
+64,Outrageous,I want to go surfing on the sea there.
+65,Uncreative,the picture is old and unpleasing
+66,Humorous,"""This isn't Japan, it's not Japan at all!"""
+66,"Meticulous (Precise, Thorough)",but it is though
+66,Humorous,"Ha ha, just because you see a rising sun you think it is??"
+67,Gentle,The air was calm and soothing.
+67,Wise,Calm and soothing air will do wonders for your soul.
+67,Gentle,"After all the hassles of this week, I could use the refresh. "
+68,Fanatical,He is my all time favorite hockey player.
+68,Caring,I hope that he is careful and does not get hurt.
+68,Fanatical,I bet he gets hurt
+69,Sympathetic,That poor staircase needs a new coat of paint. Why would they build one out of things that rust?
+70,Frightening,I get terrified on landings like we are gonna crash or something. 
+71,Paranoid,Looks like a very scary store to go into alone.
+71,"Conservative (Traditional, Conventional)",Yes we should fear the other. 
+71,Paranoid,They are out to get me. 
+72,"Suave (Charming, Smooth)","What a good looking bunch, especially in the middle."
+72,Anxious,I am kind of nervous about what is coming up next.
+72,"Suave (Charming, Smooth)",I should ask her out on a date.
+73,Brilliant,such a great idea
+73,"Conceited (Arrogant, Egotistical)",Yeah.. It's a great idea to waste a lot of money building a structure that no one will ever use.
+73,Brilliant,Well you see it's not done yet.
+74,Respectful,you are adorable
+74,Nihilistic,"They may be adorable, but they will eventually die."
+74,Respectful,"Don't be too harsh, we all need someone to call our own."
+75,Confident,I could really make that car look so much better.  I bet I could even add some lights. 
+75,Imaginative,"Ooh, adding lights to this sweet ride would look so rad! This car would be perfect for the movies!"
+75,Confident,"I think so too, everyone would love me if I drove this car"
+76,Moody,"I hate this ugly whiteboard, I hate working, I love it actually!"
+77,Clever,If I only eat half do I pay half price?
+78,Youthful,Looks fun!! I wanna join!
+79,Assertive,I'll tell you where that belongs. That belongs right in the middle of the turn around in my driveway. Where can I get one?
+79,Cute,It does belong somewhere else and it's just so great in my garden!
+79,Assertive,This belongs in China.
+80,Shy,The animal is bashfyl
+81,Extreme,these are very elegant tables and chairs for then concrete
+82,Arrogant,"The tribal band playing tonight thinks they're good, but they haven't heard my tribal band yet. We are so much better. "
+83,Odd,Is this a river valley or a road? it seems to come to an abrupt end.
+84,Grim,Highway fatalities are on the rise and there's no end in sight. 
+84,"Frivolous (Trivial, Silly)",You have to provide a statistic before you say that. 
+84,Grim,We all know it.  You just don¡¯t want to be reminded
+85,"Narcissistic (Self-centered, Egotistical)",I bet I would make for a better photo than them.
+86,Rational,"Well that's a great question. Peace is stillness, I would say. "
+86,Dramatic,I would say its an end to all the fighting.
+86,Rational,There will always be finding. Peace can be found in the quiet moments between the loud ones. 
+87,Dreamy,Wish I had a place like this
+88,"Cultured (Refined, Educated)","Their alignments are all wrong, why would a black mage be hanging out with a monk?"
+89,"Meticulous (Precise, Thorough)",His leg may be gone but he has so much more to give for our country.
+90,Simple,Thanks for protecting and serving.
+90,Patriotic,May God bless them and Merica.
+90,Simple,"Amen to that, brother."
+91,Adventurous,Oh wow. I need to travel here.
+92,Caring,Hopefully they know not to get too close to the water and ruin their shoes
+92,Daring,Or maybe they can get close without ruining their shoes!
+92,Caring,Just watch out for the water!
+93,Tense,"Geez, will he be able to hold his poop long enough?"
+94,Glamorous,I would never sit on a rusty swing like that one.
+94,Critical,That swing is too old fashioned for anybody.
+94,Glamorous,I think this is a wonderful display of found objects.
+95,"Abrasive (Annoying, Irritating)","You don't look like you're having much fun, and why's the picture so dark"
+96,Argumentative,I don't think that this is really art.
+97,Rowdy,They look sweet and innocent but I bet they're trouble once they've been on the wine and fruit juice!
+98,Cute,I think I shall wear my little blue dress today.
+99,Formal,Such a grand display of God's glory.
+100,Resentful,Green is too busy of a color for me.
+101,"Neurotic (Manic, Obsessive)",Calm person praying for world
+102,Extreme,"These flowers are beyond beautiful, they should grow everywhere!"
+102,Adventurous,i want to just go on a long walk to just find a bunch of flowers like these i wish they would grow everywhere and anywhere lol
+102,Extreme,I will up my whole back yard with these flowers.
+103,Excitable,That is a fantastic phone he is showing her!
+103,Maternal (Mother-like),She probably wants the phone to keep in touch with her kids.
+103,Excitable,"You thinks so, that is so great, I love families that stay in touch"
+104,"Coarse (Not Fine, Crass)",He doesn't look like he made the jump very far.
+105,"Conservative (Traditional, Conventional)",The stone on this statue looks smooth
+106,Impersonal,Clouds seem so bland
+107,Extreme,"It's green, green, green!! Gotta love that green!"
+107,Hostile,so much green makes me red.
+107,Extreme,Green slime all over you - that's what I'd like to do!
+108,Charming,That is a lovely train.
+109,Calm,today the band group mates are complete
+110,Fanciful,i would love to see whats inside there
+110,"Compassionate (Sympathetic, Warm)",I would be here for you if you decided to swim in there. You're safe with me
+110,Fanciful,"Thank you so much, I'd love to give it a try"
+111,Anxious,Should the driver have done that with his car
+112,"Haughty (Arrogant, Snobbish)",The kids marched in a snobbish circle. 
+112,Aggressive,Don't be so judgmental of children. 
+112,"Haughty (Arrogant, Snobbish)",They only cared about making themselves look good!
+113,Dry,Because no one has ever taken a picture of a sunset before. Clever.
+114,Rustic (Rural),probably a farm girl
+115,Emotional,she looks like she will get emotional after her beer
+116,Curious,I wonder where they're playing.
+117,"Frivolous (Trivial, Silly)",Climb to the top
+118,Elegant,The bird displays a regal elegance. 
+118,Glamorous,"Yes he does, and he has quite majestic feathers as well."
+118,Elegant,NICE ELEGANT BIRD
+119,"Pretentious (Snobbish, Showy)",This play is not up to my standard.
+120,Formal,The bird's keep their distances from competition.
+121,Charming,I would love to pick these flowers and give them to people I meet. 
+121,Rowdy,I'd rather go through it with a lawnmower while yelling at the top of my lungs.
+121,Charming,That would be a site to see. 
+122,Melancholic,This room is as silent as my heart. This place has never been silent as today.
+123,Observant,"This is a Samurai ceremony. One is the master, and one is the student. They are in traditional Samurai attire."
+124,Practical,Displaying on a sunny day
+124,Irritable,I hate being out in the hot sun!
+124,Practical,You could just go inside.
+125,Miserable,"A formerly verdant forest-scape, reduced to a series of naked husks.  Sounds disturbingly similar to my hope for a better life."
+125,Odd,That is awfully deep for a pic of the forest.
+125,Miserable,"Sure, but it doesn't make it any less true. Life is bleak."
+126,Warm,That red color really pops!
+126,"Eloquent (Well-spoken, Expressive)","The color red and it's various hues is, of the color spectrum, the most vibrant and entrancing; inciting great response from most viewers."
+126,Warm,This is a beautiful structure and it's red color is so inviting.
+127,Monstrous,place the bomb here to blow up this building
+128,Logical,This narrow room can fit a desk.
+128,Brilliant,"Yes, it's a minimalistic approach to architecture"
+128,Logical,Its the indoor version of the tiny house.
+129,Disturbing,chopped brains and body parts on a plate
+129,Solemn,Brains are a common food in some parts.
+129,Disturbing,Brains are overrated
+130,Amusing,i like this color nice one
+130,"Contemptible (Despicable, Vile)","That color makes me want to paint over it with solid black. The only color worse than that would be puce, and that's just because it has an awful name."
+130,Amusing,Someone had some rough teenage years
+131,Irrational,How does a design like this hold together. Looks like it could collapse at any moment!
+132,Moody,These words all give me some sort of strong feeling that I just don't know how to explain. Do I feel good or do I feel bad? I don't know how to feel about these things.
+133,Rowdy,Lets turn this protest into a party
+133,Dull,That would not be a wise idea.
+133,Rowdy,I'm ready to drink at this protest
+134,"Escapist (Dreamer, Seeks Distraction)",This woman is ready to run.
+134,"Coarse (Not Fine, Crass)",Is this  ever going to end?
+134,"Escapist (Dreamer, Seeks Distraction)","I hope she does, or does not, we will never know."
+135,Dry,Does the car go fast?
+136,Foolish,"Although I have never been to the town, I can tell you it is very boring."
+137,Envious,i wish i had that coat
+137,"Enigmatic (Cryptic, Obscure)",No one knows what is under that coat.
+137,Envious,I also wish I had those sunglasses.
+138,"Narcissistic (Self-centered, Egotistical)",I could do that faster.
+139,Outrageous,I can't believe this website is STILL loading...
+140,Opinionated,"I adore nature, especially going hiking."
+140,Ridiculous,This is just a pool of nastiness. 
+140,Opinionated,It's a pool of nature.
+141,Extraordinary,What is that wall made of?
+141,Rigid,"Stones, many and many stones i'm sure."
+141,Extraordinary,very nice picture
+142,Melancholic,So sad how fast they grow up...enjoy the sweetness because it does not last
+143,"Cultured (Refined, Educated)",This restaurant is fabulous. 
+144,Money-minded,they probably have a good profit
+144,Energetic,"That's great, I wonder what their secret is?!?"
+144,Money-minded,their secret is taking away other people's world's
+145,Practical,Some pre design before they actual application I assumer
+146,Unrealistic,Crinkle crinkle crinkle...
+146,"Fickle (Changeable, Temperamental)",It's silly how much seaweed is worth in the future.
+146,Unrealistic,You could be a millionaire with it.
+147,"Apathetic (Uncaring, Disinterested)",There is literally nothing interesting happening in this photo. Next.
+147,Witty,He looks like a clever man telling him a joke about vietnam.
+147,"Apathetic (Uncaring, Disinterested)",Who cares about what they talk about?
+148,Scornful,She seems to need a napkin 
+148,Perceptive,yes she is crying
+148,Scornful,I was just joking. She's acting in a play. Isn't that obvious?
+149,Irritable,Why don't they just stop clapping already!
+150,Profound,He is a well-mannered gentleman.
+151,"Fatalistic (Bleak, Gloomy)",Everyone who leaves here will probably inevitably end up back here. 
+152,Youthful,This graffiti makes me feel young.
+153,Captivating,Oh I cab just hear the song and it is amazing
+153,Solemn,I'm sure he's a talented singer.
+153,Captivating,his music makes me thinks of the past and my feelings 
+154,Reflective,I remember the when I got to meet someone I admire very much.
+155,Scholarly,Those shrubs should technically have more shade.
+156,Cheerful,what a nice view
+156,Discouraging,I think those are weeds and not flowers. 
+156,Cheerful,Well I've never seen such beautiful weeds!
+157,"Articulate (Well-spoken, Expressive)",My superior hover craft  
+157,Optimistic,"That's not a hovercraft, one day you will learn the difference. "
+157,"Articulate (Well-spoken, Expressive)","I've trained countless hours on this machine, do not fret."
+158,Envious,I wish I could have seen that building back in the day
+159,Respectful,Such a beautiful young lady.
+159,Rigid,"I do Not agree, Lack of smile, the hair is all wrong plus, I have seen better."
+159,Respectful,I think we all have our own beauty that can be respected by one another.
+160,Honest,I am enjoying this conversation
+161,Erratic,I like that ball. we should go shopping
+161,Imaginative,I could think of so many DIY projects for this ball.
+161,Erratic,Throw ball! throw ball!
+162,Perceptive,She knows what she is doing at the mic.
+162,Monstrous,she seems like she wants to perform a song.
+162,Perceptive,I bet she sings well
+163,"Vacuous (Empty, Unintelligent)",Beautiful and vast land to explore.
+164,Maternal (Mother-like),Please do not climb that crane! It is dangerous and I do not want you to get hurt.
+164,Mystical,i think i will climb on it
+164,Maternal (Mother-like),You shouldn't climb it! that would be dangerous!
+165,Mystical,THIS LOOKS LIKE A DIFFICULT RIDE
+165,"Narcissistic (Self-centered, Egotistical)",It would be no problem for an athlete like myself.
+165,Mystical,"That seems like a big dream, but I'm sure a hero like you could do it!"
+166,Rigid,I hate looking at this
+167,"Aloof (Detached, Distant)",I love the way the guy sat
+167,Rustic (Rural),He's probably just getting comfortable after morning farm chores.
+167,"Aloof (Detached, Distant)",I can see how that could happen.
+168,High-spirited,Those boys look like they are having so much fun!
+169,"Cultured (Refined, Educated)",These flowers only take 2 weeks to bloom! 
+169,Outrageous,wow!!! these flowers are so beautiful! i would admire them everyday if they were mine
+169,"Cultured (Refined, Educated)",The flowers are rare and should be left undisturbed to ensure future enjoyment by all.
+170,Peaceful,This city makes me feel like I'm reading a book and just drifting away in it's serenity.
+171,Spirited,An enchanting day within the castle grounds.
+172,"Eloquent (Well-spoken, Expressive)",I love the soft orange of the painting. This figure looks both glamorous and drab.
+172,Youthful,This is an old relic!
+172,"Eloquent (Well-spoken, Expressive)",It looks like something that should be in a museum. 
+173,Boyish,That dude knows what's up
+173,Melancholic,Indeed. This dude has seen some hard times and is ready to sing the blues.
+173,Boyish,"Blues is lame, he would be better if he played hard metal"
+174,Arrogant,Overlooking the valley my hotel room has the best view.
+175,Attractive,beauty is in this picture
+175,Zany,That's a big banjo
+175,Attractive,Yeah but I bet the women love it!
+176,"Cultured (Refined, Educated)",Pizza is not a healthy choice for dinner; children should be eating good nutrition to help them grow and learn. 
+176,Ordinary,I don't think some pizza every once in a while would hurt.
+176,"Cultured (Refined, Educated)",It does.  It has a lot of cholesterol and carbs.  Babies should omit this from their diets.
+177,Silly,These are some great classical musicians.
+178,Artificial,You guys are just so good at everything.
+178,"Boisterous (Rowdy, Loud)",We are the greatest!
+178,Artificial,Solving really important problems all day.
+179,"Vacuous (Empty, Unintelligent)",Why his head so big tho
+179,"Abrasive (Annoying, Irritating)",It really is just obnoxious.  It's so ugly.  Makes me want to vomit.
+179,"Vacuous (Empty, Unintelligent)",It's probably winter.
+180,Neutral,His flags don't mean much.
+181,"Aloof (Detached, Distant)",Here we have another landscape shot.
+181,Intense,Watch for the crazy moose.
+181,"Aloof (Detached, Distant)",What did you say? I wasn't paying attention.
+182,Adventurous,I think it would be cool to go there and see that!
+183,Obnoxious,Uh-oh...SOMEONE never heard that is isn't easy being GREEN!!!   Right?!?
+183,Quirky,You have a very good grasp of proper punctuation.. 
+183,Obnoxious,You have a very good grasp on how to be a jerk.
+184,Confused,what are they doing
+185,Simple,Resembles a design
+185,Brilliant,The colors are complementary and the symmetry of this image is fascinating.
+185,Simple,Its just a normal color
+186,Opinionated,You have to be assertive to get work done
+187,"Vivacious (Lively, Animated)",The kid looks like she is having fun.
+187,"Cynical (Doubtful, Skeptical)",Wonder when she's going to find out that he's not her real father?
+187,"Vivacious (Lively, Animated)",I bet she will go absolutely nuts!
+188,"Fatalistic (Bleak, Gloomy)",the insignia on here was the beginning of a long cultural decline
+188,Rustic (Rural),Or it could be a simple insignia.
+188,"Fatalistic (Bleak, Gloomy)",I bet it was a culture that had it's day in the sun and then faded away like all cultures eventually do.
+189,Zany,Where is the dog's leash?
+190,Boyish,What kind of beer are you drinking dude.
+191,Blunt,The class was very informative.
+192,Perceptive,"The design on her dress is immaculate, the sequins are astounding so they must have taken hours to stitch"
+192,Hostile,"I absolutely hate this, all those feathers are just ugly."
+192,Perceptive,Those feathers are delicate you know
+193,"Enigmatic (Cryptic, Obscure)",I imagine there are large beasts in this water.
+194,Opinionated,"In my opinion, they shouldn't sit so close to the tv. It's not good for you."
+195,Sweet,"This is the color of love.  Love is the greatest thing on Earth, and I love you all. "
+195,Excitable,Green makes me think of money - I love money!!!
+195,Sweet,Well money can help you enjoy stuff.
+196,Dreamy,a giant leprechaun
+196,Patriotic,She is just embracing our heritage. 
+196,Dreamy,Her eyes are so deep blue.
+197,Outrageous,The Yellow Brick Road is REAL.
+197,Grim,They're walking to their deaths.
+197,Outrageous,They are going to see the wizard.
+198,Playful,I would love to plant tomatoes and frolic with the forest rabbits afterword.
+199,Rowdy,What on earth is this guy talking about?  Someone needs to get him off that stage!
+199,Grim,His chances for a career in theater are slim.
+199,Rowdy,i will walk up there and pull him off stage
