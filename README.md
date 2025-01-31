@@ -2,6 +2,8 @@
 
 The full code will be released later.
 
+We have opened 50 emotion-aware dialog and speech samples, which can be obtained from the dialog_data1.csv file for the emotional labels of the dialog samples with the full dialog, and from the speech folder for the corresponding speech samples.
+
 ![image](https://github.com/user-attachments/assets/ea7eb5f3-7c9d-4d11-ba3c-07726d0058e7)
 
 
