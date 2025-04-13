@@ -24,8 +24,7 @@ UTTDM Warm up and Fine-tuning
 
 UTTDM module that represents the tri-modal dependency on language, vision and audio in temporal dialogue flow and incorporates three warm-up tasks: image and caption alignment (ICA), cross-modal contrastive learning (CCL), and next utterance prediction (NUP).
 
-![image](https://github.com/user-attachments/assets/786fb83a-afc3-4b06-ba42-b2bf9af15d61)
-
+![image](https://github.com/user-attachments/assets/9b6ddd2c-65d1-4808-be4b-48265ab498fb)
 
 
 
