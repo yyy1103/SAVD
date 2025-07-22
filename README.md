@@ -31,7 +31,8 @@ UTTDM module that represents the tri-modal dependency on language, vision and au
 
 Main Results:
 
-![image](https://github.com/user-attachments/assets/61cc38cb-9170-4ed3-b5af-4775345cff84)
+<img width="997" height="1186" alt="image" src="https://github.com/user-attachments/assets/c277ede4-c43c-47df-b292-7ec2667c0d54" />
+
 
 
 MME Metric:
