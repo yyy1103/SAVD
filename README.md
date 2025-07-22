@@ -8,7 +8,8 @@ We have opened 50 emotion-aware dialog and speech samples, which can be obtained
  SAVD consists of two key modules: (i) a data augmentation module that adds sentiment-aware acoustic dialogues and generated image captions, and (ii) a unified temporal dialogue modeling module that learns the dependence of triple modalities (language, vision, audio) and builds three warm-up tasks for cross-modal interactions.
 
  
-![image](https://github.com/user-attachments/assets/4ff5ff78-b5c7-41f4-a40e-d231d588c92c)
+<img width="1860" height="850" alt="image" src="https://github.com/user-attachments/assets/094791ca-cf34-438e-b19d-ec10637f3a37" />
+
 
 
 
